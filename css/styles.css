@@ -12,10 +12,9 @@ body {
 }
 
 .header ul{
-    padding: 1%;
     display: flex;
     justify-content: flex-end;
-
+    padding: 0 2% 0 0%;
 }
 
 
